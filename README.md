@@ -2,7 +2,7 @@
 
 ### I'm lighthome
 
-- 🎓 Peking university
+- 🎓 Heilongjiang University
 - 🏠 [zadd.site](https://zadd.site) 站长
 - 公众号：coding_note
 
